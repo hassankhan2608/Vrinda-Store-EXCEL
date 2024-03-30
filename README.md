@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-03-30 151023](https://github.com/hassankhan2608/Vrinda-Store-EXCEL/assets/149296407/f26b62b0-d090-42c3-99be-756ba4d84fdc)
 
+[![SQL](https://img.shields.io/badge/SQL-Expert-orange)](https://www.example.com)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)](https://www.example.com)
 
 ## Introduction
 This project aims to analyze the sales data of Vrinda Store for the year 2023 in order to understand the marketing strategy and identify areas for growth in 2024.
